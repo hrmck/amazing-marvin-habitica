@@ -1,0 +1,6 @@
+# Amazing Marvin, get from Strategies > API > Settings > View Credentials
+AM_API_TOKEN = ""
+
+# Habitica, get from https://habitica.com/user/settings/api
+USER_ID = ""
+API_TOKEN = ""
