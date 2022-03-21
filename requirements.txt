@@ -1,0 +1,9 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+habitipy==0.3.0
+idna==3.3
+pkg_resources==0.0.0
+plumbum==1.7.2
+python-dotenv==0.19.2
+requests==2.27.1
+urllib3==1.26.9
